@@ -1,0 +1,85 @@
+body{
+    background-color: black;
+    overflow-x: hidden;
+}
+
+nav{
+    background-color: white;
+}
+
+ul{
+    background-color: white;
+}
+
+li{
+    background-color: white;
+}
+
+img.Main{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height:500px;
+    width:500px;
+}
+
+div.Ghost-Image{
+    color: azure;
+    text-align: center;
+    font-family: creepster;
+}
+
+h4.spookyText{
+    font-size: 80px;
+}
+
+div.bottomWrap{
+    background-color: white;
+}
+
+div.featuredItems{
+    color: black;
+    font-family:"courier new";
+}
+
+h4.featuredText{
+    text-align: center;
+    font-family: "courier new";
+    font-size: 30px;
+}
+
+div.row{
+    margin-top:4%;
+}
+
+img.featured{
+    display: block;
+    width: 200px;
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+div.col-md-4.featured:hover{
+    opacity: 0.5;
+}
+
+h3{
+    color:black;
+}
+
+a{
+    color:black;
+    text-decoration: none;
+}
+
+a:hover{
+    color:black;
+    text-decoration: none;
+}
+
+button.btn.btn-default{
+    border: 0px;    
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
