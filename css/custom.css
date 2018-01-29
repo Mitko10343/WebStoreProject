@@ -83,3 +83,19 @@ button.btn.btn-default{
     padding-top: 15px;
     padding-bottom: 15px;
 }
+
+#home.img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height:500px;
+    width:500px;
+}
+
+#menu2.img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height:500px;
+    width:500px;
+}
